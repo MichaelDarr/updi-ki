@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/Library/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "updi_ki")(type "Legacy")(uri "${KIPRJMOD}/Library/updi_ki.lib")(options "")(descr ""))
+  (lib (name "updi_ki-rescue")(type "KiCad")(uri "${KIPRJMOD}/updi_ki-rescue.kicad_sym")(options "")(descr ""))
+)
