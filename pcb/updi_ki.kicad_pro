@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "solder_mask_bridge|117325138|50265000|2445ef1e-9106-4eda-89ea-f564e6b0f011|d3a10bc7-c75d-49d5-a3a9-a421db3f7762"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2

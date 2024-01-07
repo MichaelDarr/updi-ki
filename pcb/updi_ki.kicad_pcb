@@ -9,7 +9,6 @@
     (0 "F.Cu" mixed)
     (31 "B.Cu" mixed)
     (35 "F.Paste" user)
-    (36 "B.SilkS" user "B.Silkscreen")
     (37 "F.SilkS" user "F.Silkscreen")
     (38 "B.Mask" user)
     (39 "F.Mask" user)
@@ -17,7 +16,6 @@
     (45 "Margin" user)
     (46 "B.CrtYd" user "B.Courtyard")
     (47 "F.CrtYd" user "F.Courtyard")
-    (49 "F.Fab" user)
   )
 
   (setup
